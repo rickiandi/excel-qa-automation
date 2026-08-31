@@ -141,3 +141,36 @@ It focuses on:
 ## Portfolio Note
 
 This project was built as a practical automation portfolio project to demonstrate how repetitive Excel quality-control tasks can be standardized and automated.
+
+
+## Demo Screenshots
+
+### 1. QA Analysis
+The application analyzes an Excel workbook and identifies data-quality issues by severity.
+
+![QA Analysis](SS%20proses%201.png)
+
+### 2. Data Quality Review
+Detected findings can be reviewed before applying any changes.
+
+![Data Quality Review](SS%20proses%202.png)
+
+### 3. Safe Fix
+Selected low-risk issues can be corrected using the Safe Fix feature.
+
+![Safe Fix](SS%20proses%203.png)
+
+### 4. Final QA Result
+After corrections, the workbook can be analyzed again to verify the result.
+
+![Final QA Result](SS%20proses%20hasil.png)
+
+### 5. Audit History
+The application maintains an audit history of QA analysis results.
+
+![Audit History](SS%20Audit.png)
+
+### 6. QA Report
+The application can export a structured Excel QA report containing the analysis summary and findings.
+
+![QA Report](SS%20QA%20Report.png)
